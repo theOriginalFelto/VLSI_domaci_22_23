@@ -1,0 +1,5 @@
+src/synthesis/DE0_TOP.v
+src/synthesis/modules/hex.v
+src/synthesis/modules/display_hex.v
+src/synthesis/modules/deb.v
+src/synthesis/modules/ps2.v
